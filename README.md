@@ -1,15 +1,15 @@
 Rockeysand integration/staging tree
 ================================
 
-http://www.rockeysand.org
+http://rockey.money
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Rockeysand Developers
+Copyright (c) 2021 Rockeysand Developers
 
 What is Rockeysand?
 ----------------
 
-Rockeysand is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Rockeysand is a lite version of Bitcoin (exactly like litecoin) using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
