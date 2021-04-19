@@ -1,34 +1,21 @@
-src/*.exe
 src/rockeysand
 src/rockeysandd
 src/test_rockeysand
-.*.swp
-*.*~*
-*.bak
-*.rej
-*.orig
-*.o
-*.patch
 .rockeysand
 
-# Compilation and Qt preprocessor part
-*.qm
 Makefile
 rockeysand-qt
-Rockeysand-Qt.app
 
 # Unit-tests
 Makefile.test
 rockeysand-qt_test
 
-# Resources cpp
-qrc_*.cpp
 
-# Qt creator
+
 *.pro.user
 
 # Mac specific
 .DS_Store
 build
 
-!src/leveldb*/Makefile
+
