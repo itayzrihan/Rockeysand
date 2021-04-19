@@ -1,9 +1,0 @@
-Building Rockeysand
-
-See doc/readme-qt.rst for instructions on building Rockeysand-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Rockeysand.
-
-See doc/build-*.txt for instructions on building rockeysandd,
-the intended-for-services, no-graphical-interface, reference
-implementation of Rockeysand.
