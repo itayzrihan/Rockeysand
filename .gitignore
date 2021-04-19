@@ -1,21 +1,5 @@
-src/rockeysand
-src/rockeysandd
-src/test_rockeysand
-.rockeysand
-
-Makefile
-rockeysand-qt
-
-# Unit-tests
-Makefile.test
-rockeysand-qt_test
 
 
 
 *.pro.user
-
-# Mac specific
-.DS_Store
-build
-
 
